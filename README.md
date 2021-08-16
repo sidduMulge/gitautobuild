@@ -1,0 +1,2 @@
+# gitautobuild
+git build auto
